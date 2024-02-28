@@ -20,6 +20,8 @@ This is a simple Android application that allow to calculate Arithmetic Operatio
 
 ![input](https://github.com/VaibhavPaw/Arithmetic-Application/assets/141149071/ec675e4a-2bab-4077-92be-a4fbf5393832)
 
+
+
 # Output :
 
 ![output](https://github.com/VaibhavPaw/Arithmetic-Application/assets/141149071/3722c900-0613-4447-8ef6-efcdb01c5de6)
